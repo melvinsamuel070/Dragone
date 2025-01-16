@@ -13,6 +13,6 @@ spec:
     spec:
       containers: 
       - name: dragone
-        image: melvinsamuel070/dragone:3
+        image: melvinsamuel070/dragone:4
         ports: 
         - containerPort: 3001
